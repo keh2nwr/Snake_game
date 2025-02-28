@@ -1,3 +1,3 @@
 # Snake_game
 Snake game created with Python
-Creating game with python as a hobby and learn more about python
+Creating games with Python as a hobby and this help me learn more about understanding python
